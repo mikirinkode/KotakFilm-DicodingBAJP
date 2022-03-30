@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/circular_gradient_drawable.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/gradient_drawable.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/gradient_drawable_from_up.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/ic_circle.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/ic_error.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/ic_kotak_film_icon_blue.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/ic_loading.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/ic_placeholder.xml" value="0.15625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/ic_refresh.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/radial_gradient_black.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/drawable/radial_gradient_drawable.xml" value="0.15625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/activity_detail_film.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/content_detail_film.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/fragment_movie.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/fragment_tv_show.xml" value="0.152" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/items_film.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/items_films.xml" value="0.4" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/04LatihanStudiKasus/KotakFilmLatihan/app/src/main/res/layout/items_movie.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable-v24/favorite_toggle.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable-v24/ic_movie_unselected.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable-v24/tv_toggle.xml" value="0.21897435897435896" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/favorite_toggle.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_arrow_left.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_broken_image.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_error.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_heart_selected.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_kotak_film_icon_blue.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_kotak_film_icon_white.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_loading.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_movie.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_movie_selected.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_no_internet.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_placeholder.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_refresh.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_share.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/ic_tv_show.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/movie_toggle.xml" value="0.21897435897435896" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/drawable/tv_toggle.xml" value="0.21897435897435896" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/activity_detail_catalogue.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/activity_detail_film.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/activity_home.xml" value="0.136" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/activity_home_bak.xml" value="0.152" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/content_detail_film.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/content_detail_film_bak.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/content_detail_film_wip.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/fragment_favorite.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/fragment_favorite_movie.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/fragment_favorite_tv_show.xml" value="0.184375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/fragment_movie.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/fragment_tv_show.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/items_film.xml" value="0.32833020637898686" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/rv_layout.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/layout/test.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/menu/bottom_nav_menu.xml" value="0.159375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/menu/sorting_data_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DicodingBAJP/08LatStudikasus2/KotakFilmLatihan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21354166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
